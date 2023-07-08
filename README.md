@@ -1,2 +1,2 @@
-# old-logo-faithful
+# Old Minecraft Logo for Faithful.
 Add-on for Faithful 32x/64x. Restores the pre-1.20 Minecraft logo to Minecraft 1.20.
